@@ -1,0 +1,5 @@
+{
+  "name": "Maa Telecom POS & Repair Management",
+  "description": "A comprehensive Point of Sale and Repair Management system for Maa Telecom, featuring invoice generation, repair tracking, and AI-powered diagnostic suggestions.",
+  "requestFramePermissions": []
+}
